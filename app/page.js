@@ -1,6 +1,6 @@
 
 export default function Home() {
   return (
-    <h1>Body</h1>
+    <h1>Olla</h1>
   );
 }
